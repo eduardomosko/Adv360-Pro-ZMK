@@ -70,11 +70,11 @@
 
         extra {
             bindings = <
-&trans  &trans  &trans  &trans         &trans  &trans       &trans                                      &trans  &kp LS(RA(NUMBER_6))  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans         &trans  &trans       &trans                                      &trans  &trans                &trans  &trans  &trans  &trans  &kp SQT
-&trans  &trans  &trans  &trans         &trans  &trans       &trans  &trans  &trans      &trans  &trans  &trans  &trans                &trans  &trans  &trans  &trans  &kp LS(GRAVE)
-&trans  &trans  &trans  &kp RA(COMMA)  &trans  &bootloader                  &trans      &trans                  &bootloader           &trans  &trans  &trans  &trans  &kp GRAVE
-&trans  &trans  &trans  &trans         &trans               &trans  &trans  &trans      &trans  &trans  &trans                        &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans         &trans  &trans       &trans                                      &trans  &kp LS(RA(NUMBER_6))  &trans  &trans  &trans  &trans           &trans
+&trans  &trans  &trans  &trans         &trans  &trans       &trans                                      &trans  &trans                &trans  &trans  &trans  &kp PRINTSCREEN  &kp SQT
+&trans  &trans  &trans  &trans         &trans  &trans       &trans  &trans  &trans      &trans  &trans  &trans  &trans                &trans  &trans  &trans  &trans           &kp LS(GRAVE)
+&trans  &trans  &trans  &kp RA(COMMA)  &trans  &bootloader                  &trans      &trans                  &bootloader           &trans  &trans  &trans  &trans           &kp GRAVE
+&trans  &trans  &trans  &trans         &trans               &trans  &trans  &trans      &trans  &trans  &trans                        &trans  &trans  &trans  &trans           &trans
             >;
         };
     };
